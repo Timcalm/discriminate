@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## 男女语音识别
 
-You can use the [editor on GitHub](https://github.com/Timcalm/discriminate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+小组成员：陆佳豪 王琦 周传卓
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+指导老师：王一刚
 
-### Markdown
+班级：电信182
+
+学院：信息学院
+
+### 实现男女语音识别计划
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
