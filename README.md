@@ -1,16 +1,16 @@
 ## 男女语音识别
 
-小组成员：陆佳豪 王琦 周传卓
-
+小组成员：陆佳豪王琦周传卓
+adjewklfh
 指导老师：王一刚
 
 班级：电信182
 
 学院：信息学院
 
-### 实现男女语音识别计划
+###实现男女语音识别计划
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约定
 
 ```markdown
 Syntax highlighted code block
