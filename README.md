@@ -119,6 +119,6 @@ if __name__ == "__main__":    
 **5.**对声音处理中的杂音还没有进行系统的讨论
 
 ## 窗口图片以及音频导出图片展示
-！[窗口](https://raw.githubusercontent.com/Timcalm/discriminate/master/%E7%AA%97%E5%8F%A3.png)
-！[傅里叶变化图片](https://raw.githubusercontent.com/Timcalm/discriminate/master/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E5%8C%96%E5%9B%BE%E7%89%87.png)
+！[Alt text](https://raw.githubusercontent.com/Timcalm/discriminate/master/%E7%AA%97%E5%8F%A3.png)
+！[Alt text](https://raw.githubusercontent.com/Timcalm/discriminate/master/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E5%8C%96%E5%9B%BE%E7%89%87.png)
 
